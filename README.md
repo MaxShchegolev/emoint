@@ -1,5 +1,5 @@
 # emoint
-##Presentation
+## Presentation
 emoint_shchegolev.pdf
-##Best single model
+## Best single model + simple average with the baseline model
 lstm.ipynb
